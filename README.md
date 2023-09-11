@@ -56,6 +56,8 @@ To get started with this project, follow these steps:
 2. Install the necessary dependencies.
 3. Run the data augmentation script if needed.
 4. Train and evaluate the disease detection models using the provided scripts.
+5. Use the GUI.py file to run the requested trained model according to the notes.
+6. Predict the disease!
 
 ## Results
 
@@ -64,8 +66,6 @@ The project results, including accuracy graphs and confusion matrices, can be fo
 ## Conclusion
 
 This project demonstrates the use of various machine learning and deep learning models for brain disease detection using medical images. The combination of data augmentation and different model architectures allows for accurate and reliable disease prediction.
-
-For further details and specific model performance, please refer to the individual model directories and evaluation results.
 
 ---
 
