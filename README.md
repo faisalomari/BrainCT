@@ -62,6 +62,8 @@ To get started with this project, follow these steps:
 ## Results
 
 The project results, including accuracy graphs and confusion matrices, can be found in the `results/` directory. These visuals provide insights into the performance of each model.
+The results of the models are as following:
+![Final Results](restuls/final_results.png)
 
 ## Conclusion
 
