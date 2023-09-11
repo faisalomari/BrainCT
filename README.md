@@ -32,6 +32,10 @@ SVM is a traditional machine learning algorithm used for classification tasks. I
 
 Logistic Regression is another traditional machine learning technique used for binary classification tasks. It's applied to medical image features to predict the presence of specific brain diseases.
 
+### Gaussian Naive Bayes (GNB)
+
+Gaussian Naive Bayes (GNB) is a probabilistic machine learning model that assumes the likelihood of the features is Gaussian. It's used for disease prediction based on extracted features from medical images.
+
 ## Model Evaluation
 
 The trained models are evaluated using various metrics, including accuracy and confusion matrices. These metrics help assess the performance of each model in disease detection.
