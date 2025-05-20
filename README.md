@@ -73,6 +73,3 @@ The results of the models are as following:
 
 This project demonstrates the use of various machine learning and deep learning models for brain disease detection using medical images. The combination of data augmentation and different model architectures allows for accurate and reliable disease prediction.
 
----
-
-**Note**: Please customize this readme with specific details, images, and links related to your project. You can also include information about your dataset, data preprocessing, and any additional insights or findings.
